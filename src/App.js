@@ -9,12 +9,11 @@ function App() {
       <div className="App">
         <Navbar bg="light" expand="lg">
           <Container>
-            <Navbar.Brand href="#home">ISIS3710</Navbar.Brand>
+            <Navbar.Brand href="#home">ISIS3710/Natobo-exercise</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
                 <Nav.Link className="wh-text" href="#home">Gallery</Nav.Link>
-                <Nav.Link className="wh-text" href="#link">Counter</Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>
